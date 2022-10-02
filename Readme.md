@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mariana López Eikilis</h1>
+<h1 align="center">Hi, I'm Mariana López Eikilis  <img
+src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" /><</h1>
 <h3 align="center">An enthusiastic FullStack Javascript Developer</h3>
 
 - 🔭 I was working on **WaterCare App**
