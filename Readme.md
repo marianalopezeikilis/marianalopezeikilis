@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mariana</h1>
 <h3 align="center">An enthusiastic FullStack Javascript Developer</h3>
 
-- 🔭 I was working on **WaterCare App**
+- 🌱 I’m currently learning **typescript and nextjs**
 
-- 🌱 I’m currently learning **Cypress**
-
-- 💬 Ask me about **html, css, javascript, react and nodejs**
+- 💬 Ask me about **html, css, javascript, react, nodejs and perl**
 
 - 📫 How to reach me **marianalopezeikilis@gmail.com**
 
